@@ -1,4 +1,7 @@
 {
+
+   // generi interface
+   
    interface developer<t, m> {
       name: string;
       laptop: {

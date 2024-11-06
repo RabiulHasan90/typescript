@@ -19,6 +19,7 @@
     const result1 = func("1000");
     const result2 = func(188);
     console.log(result1);
+    console.log(result2);
     try {
     }
     catch (error) {
